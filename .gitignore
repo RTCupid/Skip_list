@@ -1,3 +1,13 @@
+# Doxygen generated documentation
+docs/
+doxygen_output/
+html/
+latex/
+*.log
+*.aux
+*.tmp
+doxygen_sqlite3.db
+
 .cache/
 build/
 
