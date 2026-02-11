@@ -1,0 +1,16 @@
+# Минимальный Doxyfile
+PROJECT_NAME           = "SkipList"
+PROJECT_BRIEF          = "C++ skip list implementation"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = include src tests
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+HTML_DYNAMIC_SECTIONS  = YES
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+SOURCE_BROWSER         = YES

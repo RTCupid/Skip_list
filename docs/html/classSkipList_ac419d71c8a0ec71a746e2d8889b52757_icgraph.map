@@ -1,0 +1,10 @@
+<map id="SkipList::erase" name="SkipList::erase">
+<area shape="rect" id="Node000001" title="Removes a key from the skip list." alt="" coords="351,31,468,56"/>
+<area shape="rect" id="Node000002" href="$test_8cpp.html#aa4e79e524cd0f32321558e880c7af343" title=" " alt="" coords="119,5,292,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,37,292,31,292,26,337,32"/>
+<area shape="rect" id="Node000004" href="$test_8cpp.html#a70836784679deb49d982bde7c326d667" title=" " alt="" coords="108,55,303,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="337,54,303,59,302,53,337,49"/>
+<area shape="rect" id="Node000003" href="$test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,35,60,42,60,37,105,30"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="100,55,60,50,61,44,101,50"/>
+</map>
