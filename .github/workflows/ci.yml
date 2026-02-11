@@ -62,7 +62,7 @@ jobs:
           cd build
           ctest --output-on-failure
 
- docs:
+  docs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
     permissions:
