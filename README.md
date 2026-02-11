@@ -2,4 +2,4 @@
 # Implementation of skip-list algorithm
 
 
-[Documentation](https://<RTCupid>.github.io/<Skip_list>)
+[Documentation](https://rtcupid.github.io/Skip_list/)
